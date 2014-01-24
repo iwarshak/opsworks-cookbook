@@ -1,0 +1,31 @@
+{
+  "sources": {
+    "opscode-cookbook": {
+      "path": "."
+    },
+    "memcached": {
+      "locked_version": "1.7.0"
+    },
+    "redisio": {
+      "locked_version": "1.7.0"
+    },
+    "monit": {
+      "locked_version": "0.7.1"
+    },
+    "runit": {
+      "locked_version": "1.5.8"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "yum": {
+      "locked_version": "3.0.4"
+    },
+    "yum-epel": {
+      "locked_version": "0.2.0"
+    },
+    "ulimit": {
+      "locked_version": "0.3.2"
+    }
+  }
+}
